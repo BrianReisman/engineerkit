@@ -97,6 +97,7 @@
    * [How To Use Git `Guide`](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
    * [Make Atomic Git Commits `Article`](https://www.aleksandrhovhannisyan.com/blog/atomic-git-commits/)
    * [Oh my git! `Game`](https://ohmygit.org/)
+   * [Learn Git Branching `Game`](https://learngitbranching.js.org/)
    * [Pro Git `Book`](https://git-scm.com/book/en/v2)
    * [Semantic Versioning 2.0.0 `Resource`](https://semver.org/)
    * [Version Control (Git) `Video`](https://missing.csail.mit.edu/2020/version-control/)

@@ -99,7 +99,7 @@
    * [nodenv `Tool`](https://github.com/nodenv/nodenv)
    * [goenv `Tool`](https://github.com/syndbg/goenv)
    * [rustup `Tool`](https://rustup.rs/)
-   * [C# language versioning](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/configure-language-version)
+   * [C# language versioning `Resource`](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/configure-language-version)
    * [Computer Basics Course `Course ($)`](https://teamtreehouse.com/library/computer-basics)
  
    #### Exercises
